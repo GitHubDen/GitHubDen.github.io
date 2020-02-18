@@ -72,6 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
+
 /* Basic */
 
 	@-ms-viewport {
@@ -3782,7 +3783,10 @@ input, select, textarea {
 		}
 		#main > .miniTitle {
 			text-align: center;
+			padding-top: 0px;
+
 		}
+
 
 		#main > .post {
 			padding: 8rem 8rem 6rem 8rem ;
