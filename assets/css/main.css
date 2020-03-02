@@ -3285,6 +3285,10 @@ input, select, textarea {
 
 		}
 
+		.hide{
+			opacity: 0.012;
+			pointer-events: none;
+		}
 /* Intro */
 
 	#intro {
