@@ -3803,7 +3803,7 @@ input, select, textarea {
 			#main > .post header.major > h1, #main > .post header.major h2 {
 				font-size: 4rem;
 				line-height: 1.1;
-				margin: 0 0 2rem 0;
+				margin: 0 0 1rem 0;
 			}
 
 			#main > .post.featured {
